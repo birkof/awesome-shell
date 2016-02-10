@@ -1,4 +1,6 @@
 # Awesome Shell
+
+[![Join the chat at https://gitter.im/birkof/awesome-shell](https://badges.gitter.im/birkof/awesome-shell.svg)](https://gitter.im/birkof/awesome-shell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Awesome Bash](#awesome-bash)
 	- [Networking and Servers](#networking-and-servers)
